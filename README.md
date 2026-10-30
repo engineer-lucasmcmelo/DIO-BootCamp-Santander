@@ -9,7 +9,6 @@ Projeto desenvolvido durante o **Bootcamp Santander Cibersegurança (DIO)**. O o
 ```
 .
 ├── README.md
-├── images/             # Capturas de tela do laboratório
 ├── scripts/
 │   └── bruteforce.py   # Automação do ataque com Medusa
 └── wordlist/
